@@ -1388,7 +1388,7 @@
   "6053": "Madridejos",
   "6100": [
     "Bacolod City",
-    "Kabangkalan"
+   
   ],
   "6101": "Bago City",
   "6102": "Pulupandan",
@@ -1400,7 +1400,8 @@
   "6108": "Himamaylan",
   "6109": "Ilog",
   "6110": "Candoni",
-  "6112": "Kauayan",
+  "6112": "Cauayan",
+  "6111" : "Kabankalan"
   "6113": "Sipalay",
   "6114": "Hinoba-ari",
   "6115": "Talisay",
